@@ -1,3 +1,11 @@
-<h1 {
-    color: red;
+ body {
+     background-color: yellow;
+ }
+.heading {
+    color: blue;
+    font-size: 46px;
+}
+#unique {
+  color: brown;
+  font-size: 24px;
 }
